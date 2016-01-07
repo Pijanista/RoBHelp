@@ -1,0 +1,7 @@
+name: RoBHelp
+main: com.rebirthofbalkan.RoBHelp.RoBHelp
+version: 1.0
+commands: 
+   Help: 
+      description: Displays the help menu.
+      usage: /<command> 

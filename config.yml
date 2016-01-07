@@ -1,0 +1,15 @@
+# default config.yml
+Config_Version: 1.0
+
+help:
+  '1': '&8&m====================================================='
+  '2': '&a&l         Help > Help'
+  '3': '&3This is the main page, it is called &a&lHelp'
+  '4': '&3Use this config to edit your page'
+  '5': '&3/help &7- help.'
+  '6': '&3/help &7- help.'
+  '7': '&3/help &7- help.'
+  '8': '&3/help &7- help.'
+  '9': '&3/help &7- help.'
+  '10': '&3/help &7- help.'
+  '11': '&8&m====================================================='
